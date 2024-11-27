@@ -1,2 +1,2 @@
 # Nike_website
-A test frontend nike website
+A personal test nike website frontend
